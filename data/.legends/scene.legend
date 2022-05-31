@@ -1,0 +1,4 @@
+OBJ_ID arg1 arg2 ... argN
+
+Button
+0 id_btn pos_x pos_y ptr_id

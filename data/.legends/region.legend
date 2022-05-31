@@ -1,0 +1,18 @@
+OBJ_ID arg1 arg2 ... argN
+
+Teleporter:
+0 destination_region_id posx posy width height
+Dialogue
+1 pos_x pos_y string delay
+Smoke
+2 pos_x pos_y
+Waves
+3 pos_x pos_y
+Enemy
+4 id_enemy pos_x_init pos_y_init pos_x_end pos_y_end
+Waves border
+5 id_border pos_x pos_y id_rotate
+NPC
+9 npc_id posx posy
+Item
+11 id_item on_the_ground pos_x pos_y

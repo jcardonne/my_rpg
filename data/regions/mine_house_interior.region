@@ -1,0 +1,11 @@
+//doggo npc
+9 1 1020 740
+
+//tp to go inside mine house interior
+0 1 1000 777 1 1 0
+
+// music
+10 0
+
+//spawn key
+11 1 1 1020 750
